@@ -1,0 +1,21 @@
+{
+  "name": "widgets",
+  "version": "1.0.0",
+  "description": "app academy week 6 day 5",
+  "main": "widgets.jsx",
+  "scripts": {
+    "test": "say Dom is the man"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.1.1",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.1"
+  }
+}
