@@ -2,9 +2,10 @@
   "name": "widgets",
   "version": "1.0.0",
   "description": "app academy week 6 day 5",
-  "main": "widgets.jsx",
+  "main": "./frontend/widgets.jsx",
   "scripts": {
-    "test": "say Dom is the man"
+    "test": "say Dom is the man",
+    "start": "webpack --watch --mode=development"
   },
   "author": "",
   "license": "ISC",
